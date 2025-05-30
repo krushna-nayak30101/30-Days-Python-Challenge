@@ -12,6 +12,7 @@
 
 ### 💻 Solution
 
+```python
 # Create initial retail inventory (item: quantity)
 inventory = {    "Jeans": 5,    "Shirts": 8,    "Kurtis": 7,    "Polo Tees": 5,    "Palazzo": 16}
 
@@ -32,6 +33,7 @@ print("\nFinal Retail Inventory:")
 for item in inventory:
     print(f"{item} - {inventory[item]}")
 ```
+
 📌 Progress
 
 Day 3 completed ✅
