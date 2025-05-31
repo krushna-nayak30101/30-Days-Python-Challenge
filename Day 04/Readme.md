@@ -1,9 +1,9 @@
 # 📅 Day 4 – if, elif, else, for and while loops , break and continue
 
 ## 🗒️ Topics Covered
-✅ if, elif, else – for making logical decisions
-✅ for and while loops – for repeating tasks
-✅ break and continue – to control loop behavior
+- ✅ if, elif, else – for making logical decisions
+- ✅ for and while loops – for repeating tasks
+- ✅ break and continue – to control loop behavior
 
 ## 🎯 Challenge
 
