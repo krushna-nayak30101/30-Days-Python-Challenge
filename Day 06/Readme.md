@@ -1,12 +1,12 @@
 # 🎯 Topic: Working with Modules in Python – built-in & custom
 
 
-## ✅ Importing Built-in Modules
-## ✅ Using popular ones like math and random
-## ✅ Creating and using custom modules
-## ✅ Understanding the role of modular programming in real-world projects 
+### ✅ Importing Built-in Modules
+### ✅ Using popular ones like math and random
+### ✅ Creating and using custom modules
+### ✅ Understanding the role of modular programming in real-world projects 
 
-## Solution
+### Solution
 ```
 import random
 import string
