@@ -35,3 +35,5 @@ Modules = less repetition, more structure.
 They help split logic across files and build scalable, professional-grade apps.
 And let’s be real — importing a math function > writing it from scratch!
 
+✅ 6 days done, and momentum is building!
+If you’ve ever been intimidated by Python, join this journey — one module at a time. 🌱
