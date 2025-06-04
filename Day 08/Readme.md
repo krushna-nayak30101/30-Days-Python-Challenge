@@ -11,7 +11,7 @@
  ## Create a Car class with attributes and a display method
 
  ```
-## python challenge
+## python challenge -- Create a Car class with attributes and a display method
 
 class Car:
     def __init__(self, brand, model,variant): # int initialize 
@@ -27,6 +27,7 @@ car1.show_info()  # Output: Toyota Fortuner Legender
 
 ```
 ```
+### Python challenge -- Challenge: Design a retail product class with display and update methods 
 class Product:
     def __init__(self, name, price, stock):
         self.name = name        # Product name
