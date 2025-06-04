@@ -2,11 +2,11 @@
 ##  Challenge : Create a Car class with attributes and a display method.
 
 ### 🧵 What I built:
-✅ A Product class — the DNA for each retail item
- ✅ Attributes like name, price, stock
- ✅ A constructor to initialize each product
- ✅ A display_info() method to showcase product details
- ✅ An update_stock() method to reflect real-time sales
+- ✅ A Product class — the DNA for each retail item
+- ✅ Attributes like name, price, stock
+- ✅ A constructor to initialize each product
+- ✅ A display_info() method to showcase product details
+- ✅ An update_stock() method to reflect real-time sales
 
  ## Create a Car class with attributes and a display method
 
