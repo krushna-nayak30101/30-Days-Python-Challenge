@@ -13,3 +13,4 @@ Welcome to my journey through the #30DaysOfPython challenge! Each day I’ll be 
 | 5   |  defining function, parameters, return values,lambda functions | Write a function that takes a list of numbers and computes both the sum and average | [Day 5](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2005) |
 | 6   | Modules & Packages Unlocked | Generate a random 8-character password. | [Day 6](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2006) |
 | 7   | Reading Files & Word Frequency Counter | Counting word frequency in a text file using Python | [Day 7](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2007) |
+| 8   | Object-Oriented Programming (OOP) Unlocked | Create a Car class with attributes and a display method | [Day 8](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2008) |
