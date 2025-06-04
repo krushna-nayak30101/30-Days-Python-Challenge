@@ -26,8 +26,11 @@ car1 = Car("Toyota", "Fortuner", "Legender")
 car1.show_info()  # Output: Toyota Fortuner Legender
 
 ```
+
+## Challenge: Design a retail product class with display and update methods.
+
 ```
-### Python challenge -- Challenge: Design a retail product class with display and update methods 
+### Python  Challenge: Design a retail product class with display and update methods 
 class Product:
     def __init__(self, name, price, stock):
         self.name = name        # Product name
