@@ -27,5 +27,5 @@ car1.show_info()  # Output: Toyota Fortuner Legender
 
 ```
 
-✅ 8 days done, and momentum is building!
-If you’ve ever been intimidated by Python, join this journey — one module at a time. 🌱
+- ✅ 8 days done, and momentum is building!
+- If you’ve ever been intimidated by Python, join this journey — one module at a time. 🌱
