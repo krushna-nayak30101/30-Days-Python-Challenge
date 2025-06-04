@@ -1,6 +1,7 @@
 # 🚀 30 Days of Python Challenge
 
-Welcome to my journey through the #30DaysOfPython challenge! Each day I’ll be learning and applying Python concepts through mini challenges.
+- Welcome to my journey through the #30DaysOfPython challenge! 
+- Each day I’ll be learning and applying Python concepts through mini challenges.
 
 ## 🗓️ Progress Tracker
 
