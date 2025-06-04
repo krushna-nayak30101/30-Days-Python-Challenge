@@ -36,5 +36,5 @@ for word, count in word_count.items():
     print(f"{word}: {count}")
 ```
 
-✅ 7 days done, and momentum is building!
-If you’ve ever been intimidated by Python, join this journey — one module at a time. 🌱
+- ✅ 7 days done, and momentum is building!
+- If you’ve ever been intimidated by Python, join this journey — one module at a time. 🌱
