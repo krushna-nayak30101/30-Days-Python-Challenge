@@ -15,3 +15,4 @@
 | 6   | Modules & Packages Unlocked | Generate a random 8-character password. | [Day 6](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2006) |
 | 7   | Reading Files & Word Frequency Counter | Counting word frequency in a text file using Python | [Day 7](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2007) |
 | 8   | Object-Oriented Programming (OOP) Unlocked | Create a Car class with attributes and a display method | [Day 8](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2008) |
+| 9   | Inheritance & Polymorphism | Extend Car into an ElectricCar subclass with battery capacity | [Day 9](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2009) |
