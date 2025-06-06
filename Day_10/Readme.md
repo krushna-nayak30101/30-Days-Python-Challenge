@@ -1,7 +1,7 @@
 # 🎯 Topic: 
- try / except blocks 
- Specific exceptions: ValueError, ZeroDivisionError, FileNotFoundError
- finally clause for guaranteed cleanup
+-  try / except blocks 
+-  Specific exceptions: ValueError, ZeroDivisionError, FileNotFoundError
+-  finally clause for guaranteed cleanup
 
  Challennge - Read numbers from a file and handle errors gracefully.
 
@@ -29,7 +29,7 @@ finally:
     print("This block always runs (cleanup or exit message).")
 
 ```
-## Retail file error handelling method 
+### Retail file error handelling method 
 
 ```
 file_path = r"D:\kk\New folder\Python\30 days Pyhton Challenge\Day wise\Day_10\Daily_sales.txt"
@@ -62,3 +62,7 @@ finally:
         print("📁 File closed after reading sales data.")
 
 ````
+
+Day10 Done.
+
+
