@@ -1,7 +1,7 @@
 # 🎯 Topic: 
-## try / except blocks
-## Specific exceptions: ValueError, ZeroDivisionError, FileNotFoundError
-## finally clause for guaranteed cleanup
+*** try / except blocks ***
+ Specific exceptions: ValueError, ZeroDivisionError, FileNotFoundError
+ finally clause for guaranteed cleanup
 
 ## Challennge - Read numbers from a file and handle errors gracefully.
 
