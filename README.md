@@ -5,7 +5,7 @@
 
 ## 🗓️ Progress Tracker
 
-| Day | Topics Covered | Challenge | Link() |
+| Day | Topics Covered | Challenge | Link__() |
 |-----|----------------|-----------|------|
 | 1   | Python overview, IDE setup, basic syntax | Print Hello World with Name | [Day 1](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2001) |
 | 2   | Integers, floats, strings, booleans, type conversion |  Calculate Area of Rectangle | [Day 2](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2002) |
