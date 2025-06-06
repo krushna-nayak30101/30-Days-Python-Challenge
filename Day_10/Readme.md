@@ -1,5 +1,5 @@
 # 🎯 Topic: 
-*** try / except blocks ***
+* try / except blocks *
  Specific exceptions: ValueError, ZeroDivisionError, FileNotFoundError
  finally clause for guaranteed cleanup
 
