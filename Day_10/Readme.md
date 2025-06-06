@@ -1,13 +1,13 @@
 # 🎯 Topic: 
-* try / except blocks *
+ try / except blocks 
  Specific exceptions: ValueError, ZeroDivisionError, FileNotFoundError
  finally clause for guaranteed cleanup
 
-## Challennge - Read numbers from a file and handle errors gracefully.
+ Challennge - Read numbers from a file and handle errors gracefully.
 
-### 🧵 What I did:
+ 🧵 What I did:
 
-## Challennge - Read numbers from a file and handle errors gracefully.
+### Challennge - Read numbers from a file and handle errors gracefully.
 
 ```
 try:
