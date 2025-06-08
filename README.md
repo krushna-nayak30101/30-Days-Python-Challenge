@@ -18,3 +18,4 @@
 | 9   | Inheritance & Polymorphism | Extend Car into an ElectricCar subclass with battery capacity | [Day 9](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2009) |
 | 10   | Mastering Error Handling  | Read numbers from a file and handle errors gracefully | [Day 10](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2010) |
 | 11   | Date time & formatting Dates |  Calculate the number of days remaining until the end of the year | [Day 11](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2011) |
+| 12   | Remoudling - patternmantching |  Validating Email Addresses using Regular Expressions | [Day 12](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2012) |
