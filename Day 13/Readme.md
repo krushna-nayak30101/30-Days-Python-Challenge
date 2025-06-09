@@ -15,7 +15,7 @@ Imagine a shopping cart system:
 - Removing last item added ➡️ pop
 - Viewing last item added (preview) ➡️ peek
 
-###  Implement a stack with push, pop, and peek methods in Python 🐍
+###  Task - Implement a stack with push, pop, and peek methods in Python 🐍
 
 ```
 # Initialize an empty stack
