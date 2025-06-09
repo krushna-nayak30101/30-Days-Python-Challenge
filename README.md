@@ -1,9 +1,9 @@
 # 🚀 30 Days of Python Challenge
 
-- Welcome to my journey through the #30DaysOfPython challenge! 
-- Each day I’ll be learning and applying Python concepts through mini challenges.
+- Welcome to my journey through the #30DaysOfPython challenge! 🐍
+- Each day I’ll be learning and applying Python concepts through mini challenges. 🐍
 
-## 🗓️ Progress Tracker
+## 🗓️ 🐍  Progress Tracker
 
 | Day | Topics Covered | Challenge | Link__() |
 |-----|----------------|-----------|------|
@@ -18,4 +18,5 @@
 | 9   | Inheritance & Polymorphism | Extend Car into an ElectricCar subclass with battery capacity | [Day 9](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2009) |
 | 10   | Mastering Error Handling  | Read numbers from a file and handle errors gracefully | [Day 10](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2010) |
 | 11   | Date time & formatting Dates |  Calculate the number of days remaining until the end of the year | [Day 11](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2011) |
-| 12   | Re moudle - pattern mantching |  Validating Email Addresses using Regular Expressions | [Day 12](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2012) |
+| 12   | Re moudle - pattern matching |  Validating Email Addresses using Regular Expressions | [Day 12](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2012) |
+| 13   | Stack & Queue Operations in Python |  Implement a stack with push, pop, and peek methods in Python 🐍 | [Day 13](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2013) |
