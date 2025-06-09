@@ -3,6 +3,18 @@
 - 🔸 Stack operations: push(), pop(), peek()
 - 🔸 Queue basics and implementation using lists
 
+
+🔍 Let’s Break It Down:
+▶️ push() – Adds an item to the top of the stack
+ ▶️ pop() – Removes the top item (last added)
+ ▶️ peek() – Views the top item without removing it
+
+🛍️ Retail Use Case:
+Imagine a shopping cart system:
+Adding items to cart ➡️ push
+Removing last item added ➡️ pop
+Viewing last item added (preview) ➡️ peek
+
 ###  Implement a stack with push, pop, and peek methods in Python 🐍
 
 ```
