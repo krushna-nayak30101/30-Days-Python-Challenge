@@ -7,7 +7,7 @@
 -   Recursive vs. iterative thinking
 
 ## 🎯 Challenge Task:
-    Write a recursive function to calculate the factorial of a number.
+Write a recursive function to calculate the factorial of a number.
 
 ```
 
