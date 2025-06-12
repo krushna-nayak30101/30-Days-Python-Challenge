@@ -1,7 +1,7 @@
 # 🎯 Topic: 
- -🔸 Difference between return and yield
- -🔸 Creating custom iterators using __iter__() and __next__()
- -🔸 The magic of lazy evaluation — compute values only when needed
+ - Difference between return and yield
+ - Creating custom iterators using __iter__() and __next__()
+ - The magic of lazy evaluation — compute values only when needed
 
  Challennge - Build a generator that yields even numbers up to a limit.
 
