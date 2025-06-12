@@ -22,3 +22,4 @@
 | 13   | Stack & Queue Operations in Python |  Implement a stack with push, pop, and peek methods in Python 🐍 | [Day 13](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2013) |
 | 14   | Recursive & Base cases |  Write a Python function to calculate the factorial of a number using recursion. 🐍 | [Day 14](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2014) |
 | 15   | Function decorators & Use cases |  Build a decorator to calculate and print how long a function takes to execute 🐍 | [Day 15](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2015) |
+| 16   | the power of yield, iterators, and lazy evaluation |  Build a generator that yields even numbers up to a limit. 🐍 | [Day 16](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2016) |
