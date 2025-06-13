@@ -23,3 +23,15 @@
 | 14   | Recursive & Base cases |  Write a Python function to calculate the factorial of a number using recursion. 🐍 | [Day 14](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2014) |
 | 15   | Function decorators & Use cases |  Build a decorator to calculate and print how long a function takes to execute 🐍 | [Day 15](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2015) |
 | 16   | the power of yield, iterators, and lazy evaluation |  Build a generator that yields even numbers up to a limit. 🐍 | [Day 16](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2016) |
+| 17   | with statement & custom context manage | Build a custom context manager that logs when a block of code starts and ends. 🐍 | [Day 17](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2017) |
+
+
+
+
+
+
+
+
+
+
+
