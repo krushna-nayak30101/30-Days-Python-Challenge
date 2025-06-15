@@ -25,6 +25,7 @@
 | 16   | The power of yield, iterators, and lazy evaluation |  Build a generator that yields even numbers up to a limit. 🐍 | [Day 16](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2016) |
 | 17   | With statement & custom context manage | Build a custom context manager that logs when a block of code starts and ends. 🐍 | [Day 17](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2017) |
 | 18   | Metaclasses | Built a custom metaclass to enforce uppercase attribute names in classes. 🐍 | [Day 18](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2018) |
+| 19   | Threading ,multiprocessing ,concurrency | Download multiple files concurrently using threads. 🐍 | [Day 19](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2019) |
 
 
 
