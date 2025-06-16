@@ -26,7 +26,7 @@
 | 17  | With statement & custom context manage | Build a custom context manager that logs when a block of code starts and ends. 🐍 | [Day 17](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2017) |
 | 18  | Metaclasses | Built a custom metaclass to enforce uppercase attribute names in classes. 🐍 | [Day 18](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2018) |
 | 19  | Threading ,multiprocessing ,concurrency | Download multiple files concurrently using threads. 🐍 | [Day 19](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2019) |
-| 20  |  Sockets & HTTP Requests | Write a Python script to fetch and display live content from a webpage using the requests library. 🐍 | [Day 20](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2020) |
+| 20  |  Sockets & HTTP Requests | Write a Python script to fetch and display live content from a webpage using the requests library. 🐍 | [Day 20](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_20) |
 
 
 
