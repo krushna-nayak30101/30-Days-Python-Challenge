@@ -67,6 +67,17 @@ print("✅ POS sent product ID:", product_id)
 client.close()
 ```
 
+output 
+```
+🟢 Inventory server is running... Waiting for POS system.
+✅ Connected by: ('127.0.0.1', 50544)
+📥 Received Product ID from POS: 2
+📦 Product Info Fetched:
+🛍️ Title: Mens Casual Premium Slim Fit T-Shirts
+💰 Price: ₹ 22.3
+
+```
+
 💡 Quick Tip:
 Use sockets when you want fast, internal app-to-app communication
 
