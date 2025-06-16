@@ -16,17 +16,17 @@
 | 7   | Reading Files & Word Frequency Counter | Counting word frequency in a text file using Python 🐍 | [Day 7](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2007) |
 | 8   | Object-Oriented Programming (OOP) Unlocked | Create a Car class with attributes and a display method 🐍 | [Day 8](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2008) |
 | 9   | Inheritance & Polymorphism | Extend Car into an ElectricCar subclass with battery capacity 🐍 | [Day 9](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2009) |
-| 10   | Mastering Error Handling  | Read numbers from a file and handle errors gracefully 🐍 | [Day 10](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2010) |
-| 11   | Date time & formatting Dates |  Calculate the number of days remaining until the end of the year 🐍 | [Day 11](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2011) |
-| 12   | Re moudle - pattern matching |  Validating Email Addresses using Regular Expressions 🐍 | [Day 12](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2012) |
-| 13   | Stack & Queue Operations in Python |  Implement a stack with push, pop, and peek methods in Python 🐍 | [Day 13](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2013) |
-| 14   | Recursive & Base cases |  Write a Python function to calculate the factorial of a number using recursion. 🐍 | [Day 14](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2014) |
-| 15   | Function decorators & Use cases |  Build a decorator to calculate and print how long a function takes to execute 🐍 | [Day 15](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2015) |
-| 16   | The power of yield, iterators, and lazy evaluation |  Build a generator that yields even numbers up to a limit. 🐍 | [Day 16](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2016) |
-| 17   | With statement & custom context manage | Build a custom context manager that logs when a block of code starts and ends. 🐍 | [Day 17](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2017) |
-| 18   | Metaclasses | Built a custom metaclass to enforce uppercase attribute names in classes. 🐍 | [Day 18](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2018) |
-| 19   | Threading ,multiprocessing ,concurrency | Download multiple files concurrently using threads. 🐍 | [Day 19](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2019) |
-
+| 10  | Mastering Error Handling  | Read numbers from a file and handle errors gracefully 🐍 | [Day 10](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2010) |
+| 11  | Date time & formatting Dates |  Calculate the number of days remaining until the end of the year 🐍 | [Day 11](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2011) |
+| 12  | Re moudle - pattern matching |  Validating Email Addresses using Regular Expressions 🐍 | [Day 12](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2012) |
+| 13  | Stack & Queue Operations in Python |  Implement a stack with push, pop, and peek methods in Python 🐍 | [Day 13](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2013) |
+| 14  | Recursive & Base cases |  Write a Python function to calculate the factorial of a number using recursion. 🐍 | [Day 14](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2014) |
+| 15  | Function decorators & Use cases |  Build a decorator to calculate and print how long a function takes to execute 🐍 | [Day 15](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2015) |
+| 16  | The power of yield, iterators, and lazy evaluation |  Build a generator that yields even numbers up to a limit. 🐍 | [Day 16](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2016) |
+| 17  | With statement & custom context manage | Build a custom context manager that logs when a block of code starts and ends. 🐍 | [Day 17](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2017) |
+| 18  | Metaclasses | Built a custom metaclass to enforce uppercase attribute names in classes. 🐍 | [Day 18](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2018) |
+| 19  | Threading ,multiprocessing ,concurrency | Download multiple files concurrently using threads. 🐍 | [Day 19](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2019) |
+| 20  |  Sockets & HTTP Requests | Write a Python script to fetch and display live content from a webpage using the requests library. 🐍 | [Day 20](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day%2020) |
 
 
 
