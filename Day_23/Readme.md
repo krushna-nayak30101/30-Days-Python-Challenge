@@ -4,9 +4,9 @@
 - 🔹 Handling options, flags, and help messages
 
 Challennge -   Rebuild the Temperature Converter from Day 22 using Kivy GUI, with:
-Text input field
-Spinner for unit selection
-Button to trigger conversion
+-    Text input field
+-    Spinner for unit selection
+-    Button to trigger conversion
 
 ```
 from kivy.app import App
