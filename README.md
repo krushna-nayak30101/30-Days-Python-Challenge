@@ -30,6 +30,7 @@
 | 21  |  Requests  & BeautifulSoup | Scrape and print the top headlines from a news website — all using Python! 🐍 | [Day 21](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_21) |
 | 22  | Argparse &  CLI structures  | Build a Temperature Converter CLI tool  🐍 | [Day 22](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_22) |
 | 23  | Kivy , user input and triggering actions via buttons  | Rebuild the Temperature Converter from Day 22 using Kivy GUI,  🐍 | [Day 23](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_23) |
+| 24  | Data Class & Flask , templates | Building a Mini Library System using Python @dataclass and Flask  🐍 | [Day 24](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_24) |
 
 
 
