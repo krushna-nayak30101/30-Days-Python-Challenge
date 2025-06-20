@@ -1,12 +1,10 @@
 # 🎯 Topic: 
-- 🔹 How to parse command-line arguments using argparse
-- 🔹 Structuring user-friendly CLI tools
-- 🔹 Handling options, flags, and help messages
+-    🔹 How to install and set up a Flask project
+-    🔹 Creating routes to control page navigation
+-    🔹 Building HTML templates using Jinja2
+-    🔹 Linking Python backend logic with the frontend using @dataclass
 
-Challennge -   Rebuild the Temperature Converter from Day 22 using Kivy GUI, with:
--    Text input field
--    Spinner for unit selection
--    Button to trigger conversion
+Challennge -Build a minimal library system to manage book records using @dataclass for structure and Flask for the web interface.
 
 ```
 from flask import Flask, render_template
@@ -54,4 +52,7 @@ if __name__ == "__main__":
 - Flask + Jinja2 makes it easy to build dynamic web pages
 - Combining logic and presentation helps understand full-stack basics
 
+📚 A fun, functional way to bridge backend Python with simple frontend templating.
+Let me know if you want the full code or ZIP — happy to share!
 
+#Python #Flask #Dataclass #WebDevelopment #MiniProject #PythonProjects #30DaysOfCode #KrishnaLearns #Jinja2 #FullStackBasics
