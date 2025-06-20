@@ -4,7 +4,7 @@
 -    🔹 Building HTML templates using Jinja2
 -    🔹 Linking Python backend logic with the frontend using @dataclass
 
-Challennge -Build a minimal library system to manage book records using @dataclass for structure and Flask for the web interface.
+Challenge -Build a minimal library system to manage book records using @dataclass for structure and Flask for the web interface.
 
 ```
 from flask import Flask, render_template
