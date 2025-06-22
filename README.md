@@ -32,7 +32,7 @@
 | 23  | Kivy , user input and triggering actions via buttons  | Rebuild the Temperature Converter from Day 22 using Kivy GUI,  🐍 | [Day 23](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_23) |
 | 24  | Data Class & Flask , templates | Building a Mini Library System using Python @dataclass and Flask  🐍 | [Day 24](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_24) |
 | 25  | Data Validation with Pydantic! ✅📦 | Build a User Profile model with: Pydantic 🐍 | [Day 25](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_25) |
-
+| 26  | 📚 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗮 𝗥𝗘𝗦𝗧𝗳𝘂𝗹 𝗔𝗣𝗜 𝘄𝗶𝘁𝗵 𝗙𝗮𝘀𝘁𝗔𝗣𝗜 | 𝗕𝘂𝗶𝗹𝗱 𝗮 𝗙𝗮𝘀𝘁𝗔𝗣𝗜 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗺𝗮𝗻𝗮𝗴𝗲 𝗮 𝗹𝗶𝗯𝗿𝗮𝗿𝘆 𝗼𝗳 𝗯𝗼𝗼𝗸𝘀: 🐍 | [Day 26](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_26) |
 
 
 
