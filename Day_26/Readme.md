@@ -88,7 +88,7 @@ FastAPI makes it incredibly easy to develop and document REST APIs — with type
 
 If you want to build web apps, mobile apps, or automate backend services — start with REST, start with FastAPI. 💥
 
-hashtag#FastAPI hashtag#Python hashtag#BackendDevelopment hashtag#RESTAPI hashtag#30DaysOfPython hashtag#KrushnaLearnsPython hashtag#Pydantic hashtag#BookAPI hashtag#LearningInPublic hashtag#BuildInPublic hashtag#RetailTech hashtag#PythonChallenge
+#FastAPI #Python #BackendDevelopment #RESTAPI #30DaysOfPython #KrushnaLearnsPython #Pydantic #BookAPI #LearningInPublic #BuildInPublic #RetailTech #PythonChallenge
 
 
 
