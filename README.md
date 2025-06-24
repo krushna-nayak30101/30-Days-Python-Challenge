@@ -34,6 +34,7 @@
 | 25  | Data Validation with Pydantic! ✅📦 | Build a User Profile model with: Pydantic 🐍 | [Day 25](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_25) |
 | 26  | 📚 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗮 𝗥𝗘𝗦𝗧𝗳𝘂𝗹 𝗔𝗣𝗜 𝘄𝗶𝘁𝗵 𝗙𝗮𝘀𝘁𝗔𝗣𝗜 | 𝗕𝘂𝗶𝗹𝗱 𝗮 𝗙𝗮𝘀𝘁𝗔𝗣𝗜 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗺𝗮𝗻𝗮𝗴𝗲 𝗮 𝗹𝗶𝗯𝗿𝗮𝗿𝘆 𝗼𝗳 𝗯𝗼𝗼𝗸𝘀: 🐍 | [Day 26](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_26) |
 | 27  | 𝗢𝗥𝗠 & 𝗦𝗤𝗟𝗔𝗹𝗰𝗵𝗲𝗺𝘆 𝗶𝗻 𝗔𝗰𝘁𝗶𝗼𝗻: 𝗠𝗮𝗸𝗶𝗻𝗴 𝗣𝘆𝘁𝗵𝗼𝗻 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 𝗕𝗲𝘀𝘁 𝗙𝗿𝗶𝗲𝗻𝗱𝘀  ✅📦💾🐍 | Build a Book Management API using: SQLAlchemy as ORM , SQLite as backend &  FASTAPI 🐍 | [Day 27](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_27) |
+| 28  | Writing Better Python Code ✅🐍 | Reviewed code, spotted issues 🧐, and refactored it to be more readable, maintainable, and Pythonic using clean coding techniques. 🐍 | [Day 28](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_28) |
 
 
 
