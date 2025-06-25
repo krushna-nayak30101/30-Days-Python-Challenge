@@ -1,7 +1,7 @@
 # Topic
 
 
-** Challenge - Build Your Mini Project in Python **
+## Challenge - Build Your Mini Project in Python 
 
 🧠 What I Learned (Day 1 to Day 28 Concepts in Action):
 -  ✅ Variables, Loops, Functions
