@@ -4,21 +4,21 @@
 Challenege - Build Your Mini Project in Python  
 
 🧠 What I Learned (Day 1 to Day 28 Concepts in Action):
-✅ Variables, Loops, Functions
-✅ File handling with CSV
-✅ Pandas for data cleaning, grouping, aggregation
-✅ Matplotlib for visualization
-✅ Modular, clean coding structure
-✅ Streamlit for building an interactive web dashboard
+-  ✅ Variables, Loops, Functions
+-  ✅ File handling with CSV
+-  ✅ Pandas for data cleaning, grouping, aggregation
+-  ✅ Matplotlib for visualization
+-  ✅ Modular, clean coding structure
+-  ✅ Streamlit for building an interactive web dashboard
 
 
 💡 Key Features:
-📥 Upload sales CSV files
-📊 Calculate total revenue and quantity sold
-📦 Identify top-performing and low-performing products
-📈 Visualize monthly revenue trends
-🏷️ Track revenue by product category
-📉 Spot sales drop periods or slumps
+-  📥 Upload sales CSV files
+-  📊 Calculate total revenue and quantity sold
+-  📦 Identify top-performing and low-performing products
+-  📈 Visualize monthly revenue trends
+-  🏷️ Track revenue by product category
+-  📉 Spot sales drop periods or slumps
 
 ```
 
