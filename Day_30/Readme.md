@@ -3,7 +3,7 @@
 
 ## Challenge - Build Your Capstone Project in Python 
 
-🧠 What I Learned (Day 1 to Day 28 Concepts in Action):
+🧠 What I Learned (Day 1 to Day 30 Concepts in Action):
 
 -  Python – Core engine
 -  Pandas & NumPy – Data handling & simulation
