@@ -36,6 +36,7 @@
 | 27  | 𝗢𝗥𝗠 & 𝗦𝗤𝗟𝗔𝗹𝗰𝗵𝗲𝗺𝘆 𝗶𝗻 𝗔𝗰𝘁𝗶𝗼𝗻: 𝗠𝗮𝗸𝗶𝗻𝗴 𝗣𝘆𝘁𝗵𝗼𝗻 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 𝗕𝗲𝘀𝘁 𝗙𝗿𝗶𝗲𝗻𝗱𝘀  ✅📦💾🐍 | Build a Book Management API using: SQLAlchemy as ORM , SQLite as backend &  FASTAPI 🐍 | [Day 27](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_27) |
 | 28  | Writing Better Python Code ✅🐍 | Reviewed code, spotted issues 🧐, and refactored it to be more readable, maintainable, and Pythonic using clean coding techniques. 🐍 | [Day 28](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_28) |
 | 29  | Choose Project  ✅🐍 | Sample Mini Project. 🐍 | [Day 29](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_29) |
+| 30  | Retail Dashboard with Python ✅🐍 | Built an Interactive Retail Dashboard with Python. 🐍 | [Day 30](https://github.com/krushna-nayak30101/30-Days-Python-Challenge/tree/main/Day_30) |
 
 
 
